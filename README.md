@@ -10,11 +10,6 @@ The purpose of this project is to learn about *variadic functions* by recoding `
 
 - Manage `diuxXcsp%` type conversions
 
-### Bonus
-
-- Manage `# +` flag conversions
-- Manage `0-` flag & precision with width conversions
-
 ### Allowed Functions
 
 - [`malloc`](https://man7.org/linux/man-pages/man3/free.3.html)
